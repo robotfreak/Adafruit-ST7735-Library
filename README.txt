@@ -7,7 +7,8 @@ The 1.44" TFT breakout
   ----> https://www.adafruit.com/product/2088
 as well as Adafruit raw 1.8" TFT display
   ----> http://www.adafruit.com/products/618
-and the Arduino 1,8" TFT breakout (used on Esplora and Arduino robot)
+and the Arduino 1,8" LCD screen (used on Esplora and Arduino robot)
+  ----> https://www.arduino.cc/en/Main/GTFT
   ----> https://www.arduino.cc/en/Main/ArduinoBoardEsplora
   ----> https://www.arduino.cc/en/Main/Robot
 
