@@ -33,6 +33,16 @@ as well as Adafruit raw 1.8" TFT display
                       // in which case, set this #define pin to 0!
 #define TFT_DC     8
 
+// For the Esplora, use the following pins
+//#define TFT_CS     7
+//#define TFT_RST    1  
+//#define TFT_DC     0
+
+// For the Arduino Robot Controller, use the following pins
+//#define TFT_CS     9
+//#define TFT_RST    7  
+//#define TFT_DC     10
+
 // Option 1 (recommended): must use the hardware SPI pins
 // (for UNO thats sclk = 13 and sid = 11) and pin 10 must be
 // an output. This is much faster - also required if you want
