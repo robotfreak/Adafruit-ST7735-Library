@@ -57,6 +57,10 @@ void setup(void) {
   // Use this initializer (uncomment) if you're using a 1.44" TFT
   //tft.initR(INITR_144GREENTAB);   // initialize a ST7735S chip, black tab
 
+  // Use this initializer (uncomment) if you're using a 1.8" Arduino LCD screen
+  //tft.initG();                // initialize a ST7735S chip
+  //tft. setRotation(1); 
+
   Serial.println("Initialized");
 
   uint16_t time = millis();
